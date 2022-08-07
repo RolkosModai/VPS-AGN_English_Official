@@ -306,7 +306,7 @@ install_official() {
   rm -rf /usr/bin/pytransform &>/dev/null
   rm -rf VPS-AGN.sh
   rm -rf lista-arq
-  rm -rf Install-without-Key.sh
+  rm -rf install-without-Key.sh
   rm -rf install.sh
   service ssh restart &>/dev/null
   clear && clear
