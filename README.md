@@ -51,7 +51,7 @@ rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wge
 ```
 
 
-## :octocat: Translated and Modded by Rolka
+## Modded by Rolka
 <ul>
  <li>TELEGRAM CHANNEL: https://t.me/Rolkosmod</li>
  
