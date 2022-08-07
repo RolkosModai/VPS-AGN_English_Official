@@ -1,6 +1,6 @@
 # VPS-AGN By Rolka ( MOD ENGLISH )
 ```
-* VPS-AGN (Final Version OF VPS-MX 8.5x)
+* VPS-AGN (Final Version OF VPS-MX 8.6x)
 ```
 ![logo](https://raw.githubusercontent.com/RolkosModai/VPS-AGN_English_Official/main/VPS-AGN.png)
 
