@@ -307,6 +307,7 @@ install_official() {
   rm -rf VPS-AGN.sh
   rm -rf lista-arq
   rm -rf Install-without-Key.sh
+  rm -rf install.sh
   service ssh restart &>/dev/null
   clear && clear
   msg -bar
