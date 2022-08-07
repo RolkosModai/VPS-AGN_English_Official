@@ -66,7 +66,6 @@ rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wge
 4. [illuminati Dev Team - Contributor](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ) 
 
 ```
-? https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ???? ] ?
 
 
 
