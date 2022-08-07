@@ -235,7 +235,7 @@ chmod +x /usr/bin/SPR
 install_official() {
   clear && clear
   msg -bar
-  echo -ne "\033[1;97m Type your slogan: \033[1;32m" && read slogan
+  echo -ne "\033[1;97m Type your message: \033[1;32m" && read slogan
   tput cuu1 && tput dl1
   echo -e "$slogan"
   msg -bar
